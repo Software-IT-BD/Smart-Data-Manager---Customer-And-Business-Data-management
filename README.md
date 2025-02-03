@@ -84,7 +84,7 @@ Explore the live demo to understand how the application works:
 
 ## Documentation
 
-- **Documentation URL:** [https://softwareit.com.bd/data_list_manager/documentation](https://softwareit.com.bd/data_list_manager/documentation)
+- **Documentation URL:** [https://softwareit.com.bd/data_list_manager/documentation/index.html](https://softwareit.com.bd/data_list_manager/documentation/index.html)
 
 ## Support
 
