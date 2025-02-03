@@ -90,3 +90,13 @@ Explore the live demo to understand how the application works:
 
 If you need assistance, please contact our support team at [contact@softwareit.com.bd](mailto:contact@softwareit.com.bd). We are here to help!
 
+
+
+## Screenshot
+
+![Add Data Screenshot](https://softwareit.com.bd/data_list_manager/documentation/assets/image/add_data.png)
+
+
+
+
+
