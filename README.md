@@ -78,15 +78,15 @@ This application offers an all-in-one solution for customer data management. Wit
 
 Explore the live demo to understand how the application works:
 
-- **Login URL:** [https://softwareit.com.bd/data_ist_manager/](https://softwareit.com.bd/data_ist_manager/)
+- **Login URL:** [https://softwareit.com.bd/data_list_manager/](https://softwareit.com.bd/data_list_manager/)
 - **Username:** demo
 - **Password:** demo
 
 ## Documentation
 
-- **Documentation URL:** [https://softwareit.com.bd/data_ist_manager/documentation](https://softwareit.com.bd/data_ist_manager/documentation)
+- **Documentation URL:** [https://softwareit.com.bd/data_list_manager/documentation](https://softwareit.com.bd/data_list_manager/documentation)
 
 ## Support
 
-If you need assistance, please contact our support team at [support@softwareit.com.bd](mailto:support@softwareit.com.bd). We are here to help!
+If you need assistance, please contact our support team at [contact@softwareit.com.bd](mailto:contact@softwareit.com.bd). We are here to help!
 
