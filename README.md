@@ -94,7 +94,7 @@ If you need assistance, please contact our support team at [contact@softwareit.c
 
 ## Screenshot
 
-![Add Data Screenshot](https://softwareit.com.bd/data_list_manager/documentation/assets/image/add_data.png](https://raw.githubusercontent.com/Software-IT-BD/Smart-Data-Manager-Customer-And-Business-Data-management/refs/heads/main/documentation.png)
+![Add Data Screenshot](https://raw.githubusercontent.com/Software-IT-BD/Smart-Data-Manager-Customer-And-Business-Data-management/refs/heads/main/documentation.png)
 
 
 
